@@ -1,0 +1,1099 @@
+2021-08-24 10:07:55,900 - [ INFO] - JettyServer                     - Starting project!!!
+2021-08-24 10:07:57,070 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 10:13:03,589 - [ INFO] - JettyServer                     - Done, exit.
+2021-08-24 10:13:54,398 - [ INFO] - JettyServer                     - Starting project!!!
+2021-08-24 10:13:55,232 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 10:14:10,153 - [ INFO] - MerchantController              - Controller
+2021-08-24 10:14:10,352 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 10:14:10,354 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 10:14:10,518 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 10:14:10,519 - [ INFO] - MerchantValidator               - Access key of app id : Not exist app id 
+2021-08-24 10:14:10,520 - [ INFO] - MerchantValidator               - Data to check sum : 111|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|Not exist app id
+2021-08-24 10:14:10,522 - [ INFO] - MerchantValidator               - check sum before hash : 07FFCC428F9679E3E553724C0ABEF318 
+2021-08-24 10:14:10,523 - [ INFO] - MerchantServiceImpl             - Validate merchant : Not equals data check sum
+2021-08-24 10:14:10,524 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 10:15:58,971 - [ INFO] - MerchantController              - Controller
+2021-08-24 10:15:58,973 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 10:15:58,973 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 10:15:58,974 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 10:15:58,975 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 10:15:58,975 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 10:15:58,975 - [ INFO] - MerchantValidator               - check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 10:15:58,975 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 10:15:58,976 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 10:32:41,239 - [ INFO] - JettyServer                     - Done, exit.
+2021-08-24 10:32:52,664 - [ INFO] - JettyServer                     - Starting project!!!
+2021-08-24 10:32:53,652 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 10:32:59,144 - [ INFO] - MerchantController              - Controller
+2021-08-24 10:32:59,236 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 10:32:59,236 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 10:32:59,319 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 10:32:59,319 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 10:32:59,319 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 10:32:59,322 - [ INFO] - MerchantValidator               - check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 10:32:59,323 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 10:32:59,324 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 10:33:30,562 - [ INFO] - JettyServer                     - Done, exit.
+2021-08-24 10:33:48,818 - [ INFO] - JettyServer                     - Starting project!!!
+2021-08-24 10:33:49,420 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 10:33:53,287 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 10:33:53,288 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 10:33:53,320 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 10:33:53,321 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 10:33:53,322 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 10:33:53,323 - [ INFO] - MerchantValidator               - check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 10:33:53,324 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 10:33:53,324 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 10:35:29,671 - [ INFO] - JettyServer                     - Done, exit.
+2021-08-24 10:35:57,438 - [ INFO] - JettyServer                     - Starting project!!!
+2021-08-24 10:35:58,055 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 10:36:01,537 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 10:36:01,538 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 10:36:01,586 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 10:36:01,586 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 10:36:01,587 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|704|2107170755|970466
+2021-08-24 10:36:01,588 - [ INFO] - MerchantValidator               - check sum before hash : ADFF34DFA9CAD31E293D010231CE69E6 
+2021-08-24 10:36:01,589 - [ INFO] - MerchantServiceImpl             - Validate merchant : Not equals data check sum
+2021-08-24 10:36:01,589 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 10:36:29,942 - [ INFO] - JettyServer                     - Done, exit.
+2021-08-24 10:36:44,989 - [ INFO] - JettyServer                     - Starting project!!!
+2021-08-24 10:36:45,590 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 10:40:37,885 - [ INFO] - JettyServer                     - Done, exit.
+2021-08-24 10:40:58,010 - [ INFO] - JettyServer                     - Starting project!!!
+2021-08-24 10:40:58,612 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 10:41:04,937 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 10:41:04,938 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 10:41:04,979 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 10:41:04,980 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 10:41:04,980 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 10:41:04,982 - [ INFO] - MerchantValidator               - check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 10:41:04,983 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 10:41:04,984 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 10:41:09,725 - [ INFO] - JettyServer                     - Done, exit.
+2021-08-24 10:44:09,995 - [ INFO] - JettyServer                     - Starting project!!!
+2021-08-24 10:44:10,665 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 10:44:19,626 - [ INFO] - MerchantServiceImpl             - Validate merchant : App id can not null
+2021-08-24 10:44:19,627 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 10:44:28,686 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 10:44:28,686 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 10:44:28,731 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 10:44:28,732 - [ INFO] - MerchantValidator               - Access key of app id : 908405 
+2021-08-24 10:44:28,732 - [ INFO] - MerchantValidator               - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+2021-08-24 10:44:28,734 - [ INFO] - MerchantValidator               - check sum before hash : 3C927D42F84B5420502AAF29B97402C5 
+2021-08-24 10:44:28,735 - [ INFO] - MerchantServiceImpl             - Validate merchant : Not equals data check sum
+2021-08-24 10:44:28,736 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 10:44:33,111 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 10:44:33,112 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 10:44:33,113 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 10:44:33,113 - [ INFO] - MerchantValidator               - Access key of app id : Not exist app id 
+2021-08-24 10:44:33,113 - [ INFO] - MerchantValidator               - Data to check sum : 111|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|Not exist app id
+2021-08-24 10:44:33,114 - [ INFO] - MerchantValidator               - check sum before hash : 07FFCC428F9679E3E553724C0ABEF318 
+2021-08-24 10:44:33,114 - [ INFO] - MerchantServiceImpl             - Validate merchant : Not equals data check sum
+2021-08-24 10:44:33,115 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 10:45:44,248 - [ INFO] - JettyServer                     - Done, exit.
+2021-08-24 10:45:58,183 - [ INFO] - JettyServer                     - Starting project!!!
+2021-08-24 10:45:58,784 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 10:48:44,157 - [ INFO] - JettyServer                     - Done, exit.
+2021-08-24 10:49:05,627 - [ INFO] - JettyServer                     - Starting project!!!
+2021-08-24 10:49:06,514 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 10:50:05,598 - [ INFO] - JettyServer                     - Done, exit.
+2021-08-24 10:50:20,031 - [ INFO] - JettyServer                     - Starting project!!!
+2021-08-24 10:50:20,679 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 10:50:26,440 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 10:50:26,442 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 10:50:26,596 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 10:50:26,597 - [ INFO] - MerchantValidator               - Access key of app id : Not exist app id 
+2021-08-24 10:50:26,598 - [ INFO] - MerchantValidator               - Data to check sum : 111|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|Not exist app id
+2021-08-24 10:50:26,623 - [ INFO] - MerchantValidator               - check sum before hash : 07FFCC428F9679E3E553724C0ABEF318 
+2021-08-24 10:50:26,623 - [ INFO] - MerchantServiceImpl             - Validate merchant : Not equals data check sum
+2021-08-24 10:50:26,624 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 10:51:45,587 - [ INFO] - JettyServer                     - Done, exit.
+2021-08-24 10:51:59,449 - [ INFO] - JettyServer                     - Starting project!!!
+2021-08-24 10:52:00,220 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 10:52:03,100 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 10:52:03,100 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 10:52:03,136 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 10:52:03,136 - [ INFO] - MerchantValidator               - Access key of app id : Not exist app id 
+2021-08-24 10:52:03,137 - [ INFO] - MerchantValidator               - Data to check sum : 111|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|Not exist app id
+2021-08-24 10:52:03,137 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 10:52:03,138 - [ INFO] - MerchantValidator               - Check sum before hash : 07FFCC428F9679E3E553724C0ABEF318 
+2021-08-24 10:52:03,139 - [ INFO] - MerchantServiceImpl             - Validate merchant : Not equals data check sum
+2021-08-24 10:52:03,140 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 10:53:41,370 - [ INFO] - JettyServer                     - Done, exit.
+2021-08-24 10:54:00,743 - [ INFO] - JettyServer                     - Starting project!!!
+2021-08-24 10:54:01,465 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 10:54:07,291 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 10:54:07,292 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 10:54:07,339 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 10:54:07,339 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 10:54:07,340 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 10:54:07,340 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 10:54:07,342 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 10:54:07,342 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 10:54:07,343 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 10:57:00,260 - [ INFO] - JettyServer                     - Done, exit.
+2021-08-24 10:57:15,718 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 10:57:16,451 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 10:57:28,405 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 10:57:28,406 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 10:57:28,447 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 10:57:28,448 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 10:57:28,449 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 10:57:28,450 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 10:57:28,451 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 10:57:28,452 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 10:57:28,453 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 10:57:32,813 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:00:42,772 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:00:43,474 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:00:45,834 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:00:45,835 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:00:45,893 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:00:45,894 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:00:45,895 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:00:45,896 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:00:45,897 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:00:45,898 - [ INFO] - MerchantServiceImpl             - Validate merchant : Terminal not exists in redis
+2021-08-24 11:00:45,899 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:04:42,878 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:04:42,879 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:04:42,881 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:04:42,882 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:04:42,882 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:04:42,882 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:04:42,883 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:04:42,883 - [ INFO] - MerchantServiceImpl             - Validate merchant : Terminal not exists in redis
+2021-08-24 11:04:42,884 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:06:32,392 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:06:32,393 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:06:32,395 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:06:32,396 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:06:32,396 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:06:32,396 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:06:32,397 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:06:32,397 - [ INFO] - MerchantServiceImpl             - Validate merchant : Terminal not exists in redis
+2021-08-24 11:06:32,398 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:06:36,775 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:07:01,416 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:07:02,744 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:07:07,697 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:07:07,706 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:07:07,798 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:07:07,798 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:07:07,799 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:07:07,799 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:07:07,801 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:07:07,801 - [ INFO] - MerchantServiceImpl             - Validate merchant : Terminal not exists in redis
+2021-08-24 11:07:07,802 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:07:47,830 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:07:50,385 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:07:51,174 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:07:53,641 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:07:53,642 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:07:53,692 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:07:53,692 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:07:53,693 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:07:53,693 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:07:53,695 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:07:53,695 - [ INFO] - MerchantServiceImpl             - Validate merchant : Terminal not exists in redis
+2021-08-24 11:07:53,696 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:08:04,820 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:08:18,132 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:08:18,865 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:08:21,142 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:08:21,142 - [ INFO] - MerchantValidator               - Terminal : A000000775A6008667 
+2021-08-24 11:08:21,143 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:08:21,177 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:08:21,177 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:08:21,178 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:08:21,178 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:08:21,180 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:08:21,180 - [ INFO] - MerchantServiceImpl             - Validate merchant : Terminal not exists in redis
+2021-08-24 11:08:21,181 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:10:52,751 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:11:06,559 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:11:07,242 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:11:10,924 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:11:10,924 - [ INFO] - MerchantValidator               - Terminal : 036093001475A6008667 
+2021-08-24 11:11:10,925 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:11:10,970 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:11:10,970 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:11:10,971 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:11:10,971 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:11:10,972 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:11:10,973 - [ INFO] - MerchantServiceImpl             - Validate merchant : Terminal not exists in redis
+2021-08-24 11:11:10,973 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:12:07,834 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:12:21,706 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:12:22,354 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:12:24,788 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:12:24,788 - [ INFO] - MerchantServiceImpl             - Validate merchant : MerchantCode not exists in redis
+2021-08-24 11:12:24,788 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:15:35,400 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:15:47,741 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:15:48,458 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:15:53,495 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:15:53,496 - [ INFO] - MerchantServiceImpl             - Validate merchant : Terminal not exists in redis
+2021-08-24 11:15:53,498 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:16:01,730 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:16:14,431 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:16:15,180 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:16:17,834 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:16:17,835 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:16:17,836 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:16:17,836 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:16:17,838 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:16:17,839 - [ INFO] - MerchantServiceImpl             - Validate merchant : Terminal not exists in redis
+2021-08-24 11:16:17,840 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:17:44,523 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:17:56,215 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:17:56,816 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:17:59,752 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:17:59,753 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:17:59,753 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:17:59,754 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:17:59,755 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:17:59,755 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 11:17:59,756 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:18:17,405 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:18:29,043 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:18:29,683 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:18:32,177 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:18:32,178 - [ INFO] - MerchantServiceImpl             - Validate merchant : MerchantCode not exists in redis
+2021-08-24 11:18:32,181 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:19:00,226 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:19:12,751 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:19:13,446 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:19:16,553 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:19:16,554 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:19:16,587 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:19:16,588 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:19:16,589 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:19:16,589 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:19:16,590 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:19:16,590 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 11:19:16,591 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:21:45,209 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:21:57,196 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:21:57,829 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:22:00,531 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:22:00,532 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:22:00,582 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:22:00,582 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:22:00,583 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:22:00,584 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:22:00,585 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:22:00,586 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 11:22:00,586 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:23:51,597 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:24:51,550 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:24:52,309 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:25:08,065 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:25:08,905 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:25:18,482 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:25:18,484 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:25:18,487 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:25:18,487 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:25:18,488 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:25:18,488 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:25:18,488 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:25:18,489 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 11:25:18,489 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:25:30,567 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:25:30,568 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:25:30,569 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:25:30,569 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:25:30,569 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:25:30,570 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:25:30,570 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:25:30,570 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 11:25:30,571 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:27:10,535 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:27:10,543 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:27:10,613 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:27:10,614 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:27:10,615 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:27:10,616 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:27:10,617 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:27:10,617 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 11:27:10,618 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:27:10,791 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:30:47,000 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:31:01,349 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:31:01,987 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:31:08,555 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:31:08,556 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:31:08,605 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:31:08,605 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:31:08,606 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:31:08,607 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:31:08,608 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:31:08,608 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 11:31:08,609 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:35:01,477 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:35:10,244 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:35:11,324 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:35:55,189 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:36:13,689 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:36:16,056 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:36:17,859 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:36:19,106 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:36:19,866 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:36:20,698 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:36:34,881 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 11:36:34,883 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:36:34,980 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:46:05,204 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:46:05,821 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:46:08,701 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 11:46:08,702 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 11:46:08,737 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 11:46:08,737 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 11:46:08,738 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 11:46:08,738 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:46:08,739 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 11:46:08,740 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 11:46:08,740 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 11:49:33,508 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:51:23,573 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:51:24,898 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 11:51:47,080 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 11:51:58,175 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 11:51:58,776 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 13:28:07,629 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 13:45:24,726 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 13:45:26,955 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 13:46:23,819 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 13:46:24,621 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 13:46:34,055 - [ INFO] - MerchantController              - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+2021-08-24 13:46:34,281 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 13:46:34,282 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 13:46:34,400 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 13:46:34,401 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 13:46:34,402 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 13:46:34,402 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 13:46:34,425 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 13:46:34,427 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 13:46:34,427 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 14:36:21,887 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 15:35:32,331 - [ INFO] - JettyServer                     - <------Starting project!!!----->
+2021-08-24 15:35:33,055 - [ INFO] - JettyServer                     - Application started. Stop the application using CTRL+C
+2021-08-24 15:36:11,563 - [ INFO] - MerchantController             BIDV - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+2021-08-24 15:36:11,625 - [ INFO] - MerchantValidator               - Exist merchantCode : false 
+2021-08-24 15:36:11,625 - [ INFO] - MerchantValidator               - Exist terminal : false 
+2021-08-24 15:36:11,669 - [ INFO] - ReadConfigYaml                  - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+2021-08-24 15:36:11,670 - [ INFO] - MerchantValidator               - Access key of app id : 970466 
+2021-08-24 15:36:11,671 - [ INFO] - MerchantValidator               - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+2021-08-24 15:36:11,671 - [ INFO] - MerchantValidator               - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 15:36:11,673 - [ INFO] - MerchantValidator               - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+2021-08-24 15:36:11,673 - [ INFO] - MerchantServiceImpl             - Validate merchant : null
+2021-08-24 15:36:11,674 - [ INFO] - MerchantServiceImpl             - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+2021-08-24 15:37:25,307 - [ INFO] - JettyServer                     - <---- Done, exit ---->
+2021-08-24 15:37:39,062               startServer:19   - [] - <------Starting project!!!-----> - v.v.JettyServer        
+2021-08-24 15:37:39,679                      main:41   - [] - Application started. Stop the application using CTRL+C - v.v.JettyServer        
+2021-08-24 15:37:46,591           requestMerchant:30   - [BIDV] - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654)  - v.c.MerchantController 
+2021-08-24 15:37:46,652                  validate:47   - [] - Exist merchantCode : false  - .v.v.MerchantValidator 
+2021-08-24 15:37:46,653                  validate:55   - [] - Exist terminal : false  - .v.v.MerchantValidator 
+2021-08-24 15:37:46,690      findAccessKeyByAppId:26   - [] - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436} - v.v.c.ReadConfigYaml   
+2021-08-24 15:37:46,690                  validate:63   - [] - Access key of app id : 970466  - .v.v.MerchantValidator 
+2021-08-24 15:37:46,691                  validate:66   - [] - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466 - .v.v.MerchantValidator 
+2021-08-24 15:37:46,692                  validate:68   - [] - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE  - .v.v.MerchantValidator 
+2021-08-24 15:37:46,693                  validate:70   - [] - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE  - .v.v.MerchantValidator 
+2021-08-24 15:37:46,694           getResponseData:22   - [] - Validate merchant : null - .i.MerchantServiceImpl 
+2021-08-24 15:37:46,694           getResponseData:25   - [] - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM  - .i.MerchantServiceImpl 
+2021-08-24 15:49:52,453             lambda$main$0:35   - [] - <---- Done, exit ----> - v.v.JettyServer        
+[INFO ] 2021-08-24 15:50:06.584 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-24 15:50:07.301 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-24 15:50:15.604 [qtp1407167674-23] [BIDV] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-24 15:50:15.677 [qtp1407167674-23] [] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-24 15:50:15.677 [qtp1407167674-23] [] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-24 15:50:15.719 [qtp1407167674-23] [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-24 15:50:15.720 [qtp1407167674-23] [] MerchantValidator - Access key of app id : 970466 
+[INFO ] 2021-08-24 15:50:15.720 [qtp1407167674-23] [] MerchantValidator - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-24 15:50:15.720 [qtp1407167674-23] [] MerchantValidator - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-24 15:50:15.723 [qtp1407167674-23] [] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-24 15:50:15.723 [qtp1407167674-23] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-24 15:50:15.724 [qtp1407167674-23] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-24 16:20:09.431 [qtp1407167674-24] [11] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=11, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-24 16:20:09.438 [qtp1407167674-24] [] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-24 16:20:09.439 [qtp1407167674-24] [] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-24 16:20:09.461 [qtp1407167674-24] [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-24 16:20:09.461 [qtp1407167674-24] [] MerchantValidator - Access key of app id : App id not exist 
+[INFO ] 2021-08-24 16:20:09.462 [qtp1407167674-24] [] MerchantValidator - Data to check sum : 11|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|App id not exist
+[INFO ] 2021-08-24 16:20:09.486 [qtp1407167674-24] [] MerchantValidator - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-24 16:20:09.487 [qtp1407167674-24] [] MerchantValidator - Check sum before hash : 99DC25E8FC98250C15EFD77ED7037830 
+[INFO ] 2021-08-24 16:20:09.488 [qtp1407167674-24] [] MerchantServiceImpl - Validate merchant : Not equals data check sum
+[INFO ] 2021-08-24 16:20:09.490 [qtp1407167674-24] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-24 16:22:06.959 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-24 16:23:12.360 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-24 16:23:14.359 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-24 16:23:19.950 [qtp1407167674-23] [11] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=11, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-24 16:23:20.391 [qtp1407167674-23] [] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-24 16:23:20.392 [qtp1407167674-23] [] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-24 16:23:20.471 [qtp1407167674-23] [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-24 16:23:20.472 [qtp1407167674-23] [] MerchantServiceImpl - Validate merchant : App id not exist
+[INFO ] 2021-08-24 16:23:20.472 [qtp1407167674-23] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-24 16:23:28.029 [qtp1407167674-24] [BIDV] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-24 16:23:28.031 [qtp1407167674-24] [] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-24 16:23:28.032 [qtp1407167674-24] [] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-24 16:23:28.033 [qtp1407167674-24] [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-24 16:23:28.033 [qtp1407167674-24] [] MerchantValidator - Access key of app id : 970466 
+[INFO ] 2021-08-24 16:23:28.034 [qtp1407167674-24] [] MerchantValidator - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-24 16:23:28.034 [qtp1407167674-24] [] MerchantValidator - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-24 16:23:28.036 [qtp1407167674-24] [] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-24 16:23:28.045 [qtp1407167674-24] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-24 16:23:28.046 [qtp1407167674-24] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-24 16:25:22.511 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-24 16:25:38.376 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-24 16:25:39.232 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-24 16:25:46.126 [qtp1407167674-23] [BIDV] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-24 16:25:46.192 [qtp1407167674-23] [] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-24 16:25:46.193 [qtp1407167674-23] [] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-24 16:25:46.244 [qtp1407167674-23] [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-24 16:25:46.244 [qtp1407167674-23] [BIDV] MerchantValidator - Access key of app id : 970466 
+[INFO ] 2021-08-24 16:25:46.245 [qtp1407167674-23] [BIDV] MerchantValidator - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-24 16:25:46.245 [qtp1407167674-23] [BIDV] MerchantValidator - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-24 16:25:46.247 [qtp1407167674-23] [BIDV] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-24 16:25:46.248 [qtp1407167674-23] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-24 16:25:46.249 [qtp1407167674-23] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-24 16:25:50.690 [qtp1407167674-24] [11] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=11, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-24 16:25:50.692 [qtp1407167674-24] [] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-24 16:25:50.693 [qtp1407167674-24] [] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-24 16:25:50.694 [qtp1407167674-24] [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-24 16:25:50.695 [qtp1407167674-24] [11] MerchantServiceImpl - Validate merchant : App id not exist
+[INFO ] 2021-08-24 16:25:50.696 [qtp1407167674-24] [11] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-24 16:26:37.046 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-24 16:26:49.943 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-24 16:26:50.544 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-24 16:26:57.852 [qtp1407167674-22] [11] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=11, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-24 16:26:57.917 [qtp1407167674-22] [] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-24 16:26:57.918 [qtp1407167674-22] [] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-24 16:26:57.977 [qtp1407167674-22] [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-24 16:26:57.979 [qtp1407167674-22] [11] MerchantServiceImpl - Validate merchant : App id not exist
+[INFO ] 2021-08-24 16:27:08.650 [qtp1407167674-24] [BIDV] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-24 16:27:08.650 [qtp1407167674-24] [] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-24 16:27:08.650 [qtp1407167674-24] [] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-24 16:27:08.650 [qtp1407167674-24] [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-24 16:27:08.650 [qtp1407167674-24] [BIDV] MerchantValidator - Access key of app id : 970466 
+[INFO ] 2021-08-24 16:27:08.650 [qtp1407167674-24] [BIDV] MerchantValidator - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-24 16:27:08.650 [qtp1407167674-24] [BIDV] MerchantValidator - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-24 16:27:08.668 [qtp1407167674-24] [BIDV] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-24 16:27:08.669 [qtp1407167674-24] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-24 16:27:08.670 [qtp1407167674-24] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-24 17:17:32.900 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-24 17:18:00.534 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-24 17:18:05.980 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-24 17:18:13.974 [qtp1783463798-23] [BIDV] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-24 17:18:14.386 [qtp1783463798-23] [] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-24 17:18:14.386 [qtp1783463798-23] [] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-24 17:18:14.462 [qtp1783463798-23] [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-24 17:18:14.463 [qtp1783463798-23] [BIDV] MerchantValidator - Access key of app id : 970466 
+[INFO ] 2021-08-24 17:18:14.464 [qtp1783463798-23] [BIDV] MerchantValidator - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-24 17:18:14.464 [qtp1783463798-23] [BIDV] MerchantValidator - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-24 17:18:14.490 [qtp1783463798-23] [BIDV] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-24 17:18:14.491 [qtp1783463798-23] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-24 17:18:14.492 [qtp1783463798-23] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-24 23:05:16.495 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 10:57:17.956 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 10:57:24.550 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 10:57:32.755 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 10:57:33.103 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 10:57:33.103 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 10:57:33.257 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 10:57:33.257 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] MerchantServiceImpl - Validate merchant : App id not exist
+[INFO ] 2021-08-25 10:57:47.206 [qtp1859823482-24] [145A9DC8695D8A48F61FC4EC048834AE] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 10:57:47.206 [qtp1859823482-24] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 10:57:47.232 [qtp1859823482-24] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 10:57:47.232 [qtp1859823482-24] [145A9DC8695D8A48F61FC4EC048834AE] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 10:57:47.232 [qtp1859823482-24] [145A9DC8695D8A48F61FC4EC048834AE] MerchantServiceImpl - Validate merchant : App id not exist
+[INFO ] 2021-08-25 11:00:52.365 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 11:01:10.459 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 11:01:11.869 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 11:01:19.692 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 11:01:19.761 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 11:01:19.762 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 11:01:19.820 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 11:01:19.821 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] MerchantServiceImpl - Validate merchant : App id not exist
+[INFO ] 2021-08-25 11:04:40.184 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 11:04:54.924 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 11:04:55.926 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 11:04:59.405 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 11:04:59.471 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 11:04:59.472 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 11:04:59.526 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 11:04:59.526 [qtp1859823482-23] [145A9DC8695D8A48F61FC4EC048834AE] MerchantServiceImpl - Validate merchant : App id not exist
+[INFO ] 2021-08-25 11:07:24.430 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 11:07:41.341 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 11:07:42.744 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 11:07:51.523 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 11:07:51.706 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 11:07:51.708 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 11:07:51.793 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 11:07:51.793 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantServiceImpl - Validate merchant : App id not exist
+[INFO ] 2021-08-25 11:08:23.646 [qtp1859823482-24] [145A9DC8695D8A48F61FC4EC048834AE] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 11:08:23.647 [qtp1859823482-24] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 11:08:23.649 [qtp1859823482-24] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 11:08:23.651 [qtp1859823482-24] [145A9DC8695D8A48F61FC4EC048834AE] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 11:08:23.652 [qtp1859823482-24] [145A9DC8695D8A48F61FC4EC048834AE] MerchantServiceImpl - Validate merchant : App id not exist
+[INFO ] 2021-08-25 11:11:11.229 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 11:11:26.530 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 11:11:27.479 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 11:11:31.438 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 11:11:31.521 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 11:11:31.524 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 11:11:31.589 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 11:11:31.590 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantServiceImpl - Validate merchant : App id not exist
+[INFO ] 2021-08-25 11:12:30.360 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 11:12:41.745 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 11:12:49.271 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 11:12:50.999 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 11:12:57.674 [qtp386201215-24] [145A9DC8695D8A48F61FC4EC048834AE] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 11:12:57.766 [qtp386201215-24] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 11:12:57.766 [qtp386201215-24] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 11:14:43.254 [qtp386201215-24] [145A9DC8695D8A48F61FC4EC048834AE] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 11:14:43.254 [qtp386201215-24] [145A9DC8695D8A48F61FC4EC048834AE] MerchantServiceImpl - Validate merchant : App id not exist
+[INFO ] 2021-08-25 11:14:43.369 [Thread-2] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 11:14:58.996 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 11:15:00.060 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 11:15:02.940 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 11:15:03.029 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 11:15:03.030 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 11:15:03.099 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 11:15:03.099 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantServiceImpl - Validate merchant : App id not exist
+[INFO ] 2021-08-25 11:16:53.246 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 11:17:14.555 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 11:17:15.620 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 11:17:18.946 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 11:17:19.016 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 11:17:19.017 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 11:17:19.079 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 11:17:19.080 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Access key of app id : 970466 
+[INFO ] 2021-08-25 11:17:19.082 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 11:17:19.082 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 11:17:19.277 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 11:17:19.278 [qtp1859823482-22] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 11:17:19.279 [qtp1859823482-22] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 11:17:48.649 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 11:18:03.300 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 11:18:04.249 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 11:18:12.127 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 11:18:12.199 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 11:18:12.200 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 11:18:12.264 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 11:18:12.265 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Access key of app id : 970466 
+[INFO ] 2021-08-25 11:18:12.267 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 11:18:12.268 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 11:18:12.271 [qtp1859823482-22] [145A9DC8695D8A48F61FC4EC048834AE] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 11:18:12.272 [qtp1859823482-22] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 11:18:12.273 [qtp1859823482-22] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 13:05:02.728 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 13:05:27.639 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 13:05:31.062 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 13:05:39.198 [qtp1859823482-23] [6be0d6af-a2b0-4963-a583-c81ffa8b53f9] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 13:05:39.571 [qtp1859823482-23] [de9a9b06-7ce4-48f9-a6e4-bd1349cab2b8] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 13:05:39.572 [qtp1859823482-23] [de9a9b06-7ce4-48f9-a6e4-bd1349cab2b8] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 13:05:39.721 [qtp1859823482-23] [262ae485-5d27-460a-9d60-3f4403d1a6fa] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 13:05:39.722 [qtp1859823482-23] [262ae485-5d27-460a-9d60-3f4403d1a6fa] CheckSum - Access key of app id : 970466 
+[INFO ] 2021-08-25 13:05:39.724 [qtp1859823482-23] [262ae485-5d27-460a-9d60-3f4403d1a6fa] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 13:05:39.724 [qtp1859823482-23] [262ae485-5d27-460a-9d60-3f4403d1a6fa] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:05:39.727 [qtp1859823482-23] [] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:05:39.727 [qtp1859823482-23] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 13:05:39.728 [qtp1859823482-23] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 13:07:10.389 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 13:08:49.687 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 13:08:51.638 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 13:09:00.417 [qtp1859823482-23] [08fab2c5-7ff7-455d-ac0b-45dbfa1a2104] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 13:09:00.554 [qtp1859823482-23] [2831989e-db44-488b-926c-8ea072541f3f] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 13:09:00.555 [qtp1859823482-23] [2831989e-db44-488b-926c-8ea072541f3f] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 13:09:00.653 [qtp1859823482-23] [aee98c8a-2ef0-4a6e-8df9-3af261c478cd] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 13:09:00.654 [qtp1859823482-23] [aee98c8a-2ef0-4a6e-8df9-3af261c478cd] CheckSum - Access key of app id : 970466 
+[INFO ] 2021-08-25 13:09:00.655 [qtp1859823482-23] [aee98c8a-2ef0-4a6e-8df9-3af261c478cd] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 13:09:00.655 [qtp1859823482-23] [aee98c8a-2ef0-4a6e-8df9-3af261c478cd] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:09:00.670 [qtp1859823482-23] [] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:09:00.670 [qtp1859823482-23] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 13:09:00.672 [qtp1859823482-23] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 13:10:41.816 [qtp1859823482-24] [cd7f9ccc-f3bf-4884-841f-722d57ade063] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 13:10:41.834 [qtp1859823482-24] [62ac452c-63c0-44e4-a307-a16482c3dcc0] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 13:10:41.835 [qtp1859823482-24] [62ac452c-63c0-44e4-a307-a16482c3dcc0] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 13:10:41.837 [qtp1859823482-24] [e90084b3-fdd2-48db-ab21-a2dbe5b44f66] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 13:10:41.838 [qtp1859823482-24] [e90084b3-fdd2-48db-ab21-a2dbe5b44f66] CheckSum - Access key of app id : 908405 
+[INFO ] 2021-08-25 13:10:41.838 [qtp1859823482-24] [e90084b3-fdd2-48db-ab21-a2dbe5b44f66] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-25 13:10:41.839 [qtp1859823482-24] [e90084b3-fdd2-48db-ab21-a2dbe5b44f66] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:10:41.839 [qtp1859823482-24] [] MerchantValidator - Check sum before hash : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-25 13:10:41.840 [qtp1859823482-24] [] MerchantServiceImpl - Validate merchant : Not equals data check sum
+[INFO ] 2021-08-25 13:15:56.585 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 13:16:41.957 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 13:16:42.859 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 13:16:48.589 [qtp1859823482-23] [a871be14-f80d-477f-9c2b-ae4fe068b4dc] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 13:16:48.703 [qtp1859823482-23] [ac6c69be-4835-4cba-a92b-3558fde72759] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 13:16:48.706 [qtp1859823482-23] [ac6c69be-4835-4cba-a92b-3558fde72759] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 13:16:48.791 [qtp1859823482-23] [6370325b-e3b2-4806-a3a0-ae3225e9ace2] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 13:16:48.792 [qtp1859823482-23] [6370325b-e3b2-4806-a3a0-ae3225e9ace2] CheckSum - Access key of app id : 908405 
+[INFO ] 2021-08-25 13:16:48.794 [qtp1859823482-23] [6370325b-e3b2-4806-a3a0-ae3225e9ace2] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-25 13:16:48.794 [qtp1859823482-23] [6370325b-e3b2-4806-a3a0-ae3225e9ace2] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:16:48.796 [qtp1859823482-23] [] MerchantValidator - Check sum before hash : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-25 13:16:48.797 [qtp1859823482-23] [] MerchantServiceImpl - Validate merchant : Not equals data check sum
+[INFO ] 2021-08-25 13:17:38.693 [qtp1859823482-24] [2948a158-9e11-4568-b308-a31f2ef879c5] MerchantController - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 13:17:38.696 [qtp1859823482-24] [bb11e6bb-a70f-4c41-ad8d-5e8d1a23053d] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 13:17:38.697 [qtp1859823482-24] [bb11e6bb-a70f-4c41-ad8d-5e8d1a23053d] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 13:17:38.699 [qtp1859823482-24] [1b8e0ca9-7345-480b-b591-e64426fdb5d5] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 13:17:38.699 [qtp1859823482-24] [1b8e0ca9-7345-480b-b591-e64426fdb5d5] CheckSum - Access key of app id : 970466 
+[INFO ] 2021-08-25 13:17:38.699 [qtp1859823482-24] [1b8e0ca9-7345-480b-b591-e64426fdb5d5] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 13:17:38.700 [qtp1859823482-24] [1b8e0ca9-7345-480b-b591-e64426fdb5d5] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:17:38.700 [qtp1859823482-24] [] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:17:38.700 [qtp1859823482-24] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 13:17:38.701 [qtp1859823482-24] [091e92c2-5457-4fa9-81de-21082d41734d] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 13:27:23.469 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 13:34:35.734 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 13:34:37.801 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 13:34:46.206 [qtp1859823482-22] [a7211429-8688-45ca-8e17-e20e59a4ff74] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 13:34:46.578 [qtp1859823482-22] [d7cc01ec-5297-4fde-a81c-dc3572a9d2b6] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 13:34:46.618 [qtp1859823482-22] [d7cc01ec-5297-4fde-a81c-dc3572a9d2b6] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 13:34:46.837 [qtp1859823482-22] [c1f5a2c9-0267-4677-99ef-b2ba959f13c0] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 13:34:46.838 [qtp1859823482-22] [c1f5a2c9-0267-4677-99ef-b2ba959f13c0] CheckSum - Access key of app id : 970466 
+[INFO ] 2021-08-25 13:34:46.839 [qtp1859823482-22] [c1f5a2c9-0267-4677-99ef-b2ba959f13c0] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 13:34:46.840 [qtp1859823482-22] [c1f5a2c9-0267-4677-99ef-b2ba959f13c0] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:34:46.885 [qtp1859823482-22] [] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:34:46.886 [qtp1859823482-22] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 13:34:46.887 [qtp1859823482-22] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 13:38:36.222 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 13:38:53.306 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 13:38:55.180 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 13:38:59.902 [qtp1859823482-22] [463990be-f10c-41db-b3bc-2699908e6c40] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 13:38:59.991 [qtp1859823482-22] [59fdd7ad-72f9-489c-b4d5-c2ac4e9bbf84] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 13:38:59.993 [qtp1859823482-22] [59fdd7ad-72f9-489c-b4d5-c2ac4e9bbf84] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 13:39:00.083 [qtp1859823482-22] [72a1dad5-cbf4-4b50-9d7a-b5e52d8eec6a] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 13:39:00.084 [qtp1859823482-22] [72a1dad5-cbf4-4b50-9d7a-b5e52d8eec6a] CheckSum - Access key of app id : 970466 
+[INFO ] 2021-08-25 13:39:00.086 [qtp1859823482-22] [72a1dad5-cbf4-4b50-9d7a-b5e52d8eec6a] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 13:39:00.087 [qtp1859823482-22] [72a1dad5-cbf4-4b50-9d7a-b5e52d8eec6a] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:39:00.090 [qtp1859823482-22] [] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:39:00.090 [qtp1859823482-22] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 13:39:00.093 [qtp1859823482-22] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 13:40:21.438 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 13:40:37.609 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 13:40:38.852 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 13:40:42.856 [qtp1859823482-22] [0ea8f8fe-888b-4a78-a2ee-c096cac0eec2] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 13:40:42.937 [qtp1859823482-22] [88bc7bbd-0d6b-4eb4-b68e-4992ebd8be81] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 13:40:42.938 [qtp1859823482-22] [88bc7bbd-0d6b-4eb4-b68e-4992ebd8be81] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 13:40:43.022 [qtp1859823482-22] [82a9c14a-c57f-4f85-b384-60adad307bfc] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 13:40:43.023 [qtp1859823482-22] [82a9c14a-c57f-4f85-b384-60adad307bfc] CheckSum - Access key of app id : 970466 
+[INFO ] 2021-08-25 13:40:43.024 [qtp1859823482-22] [82a9c14a-c57f-4f85-b384-60adad307bfc] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 13:40:43.025 [qtp1859823482-22] [82a9c14a-c57f-4f85-b384-60adad307bfc] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:40:43.027 [qtp1859823482-22] [] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:40:43.027 [qtp1859823482-22] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 13:40:43.028 [qtp1859823482-22] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 13:45:37.550 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 13:45:54.952 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 13:45:56.215 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 13:46:00.045 [qtp1859823482-23] [ca2c9e11-c9fc-4b1e-8766-f57a802f2c55] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 13:46:00.144 [qtp1859823482-23] [40cc26c7-c8e0-4cb5-b508-829d42fbdf7d] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 13:46:00.146 [qtp1859823482-23] [40cc26c7-c8e0-4cb5-b508-829d42fbdf7d] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 13:46:00.217 [qtp1859823482-23] [0cf22346-0dcf-443f-8391-9ed156bd96d1] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 13:46:00.218 [qtp1859823482-23] [0cf22346-0dcf-443f-8391-9ed156bd96d1] CheckSum - Access key of app id : 970466 
+[INFO ] 2021-08-25 13:46:00.220 [qtp1859823482-23] [0cf22346-0dcf-443f-8391-9ed156bd96d1] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 13:46:00.222 [qtp1859823482-23] [0cf22346-0dcf-443f-8391-9ed156bd96d1] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:46:00.226 [qtp1859823482-23] [] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:46:00.227 [qtp1859823482-23] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 13:46:00.228 [qtp1859823482-23] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 13:51:22.091 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 13:51:53.476 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 13:51:55.301 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 13:52:00.270 [qtp1859823482-22] [e016f608-3862-4beb-94d9-d8a58eb6dcc1] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 13:52:00.462 [qtp1859823482-22] [e016f608-3862-4beb-94d9-d8a58eb6dcc1] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 13:52:00.464 [qtp1859823482-22] [e016f608-3862-4beb-94d9-d8a58eb6dcc1] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 13:52:00.612 [qtp1859823482-22] [66047a18-2531-40b9-825b-5574a0f264e9] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 13:52:00.612 [qtp1859823482-22] [66047a18-2531-40b9-825b-5574a0f264e9] CheckSum - Access key of app id : 970466 
+[INFO ] 2021-08-25 13:52:00.614 [qtp1859823482-22] [66047a18-2531-40b9-825b-5574a0f264e9] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 13:52:00.614 [qtp1859823482-22] [66047a18-2531-40b9-825b-5574a0f264e9] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:52:00.640 [qtp1859823482-22] [] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:52:00.641 [qtp1859823482-22] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 13:52:00.642 [qtp1859823482-22] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 13:54:02.925 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 13:54:23.320 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 13:54:24.644 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 13:54:29.477 [qtp1859823482-22] [8e05d170-3a44-47b0-97e8-b04d6bdc6431] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 13:54:29.592 [qtp1859823482-22] [8e05d170-3a44-47b0-97e8-b04d6bdc6431] MerchantValidator - Exist merchantCode : false 
+[INFO ] 2021-08-25 13:54:29.593 [qtp1859823482-22] [8e05d170-3a44-47b0-97e8-b04d6bdc6431] MerchantValidator - Exist terminal : false 
+[INFO ] 2021-08-25 13:54:29.656 [qtp1859823482-22] [03b90668-2491-4cf9-b530-c480adb048f3] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 13:54:29.657 [qtp1859823482-22] [03b90668-2491-4cf9-b530-c480adb048f3] CheckSum - Access key of app id : 970466 
+[INFO ] 2021-08-25 13:54:29.658 [qtp1859823482-22] [03b90668-2491-4cf9-b530-c480adb048f3] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 13:54:29.659 [qtp1859823482-22] [03b90668-2491-4cf9-b530-c480adb048f3] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:54:29.661 [qtp1859823482-22] [] MerchantValidator - Check sum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 13:54:29.661 [qtp1859823482-22] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 13:54:29.662 [qtp1859823482-22] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 14:00:46.555 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 14:01:49.439 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 14:01:51.724 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 14:01:57.566 [qtp1859823482-24] [832ab370-3243-4524-ab7f-7bf5c42d8053] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 14:01:58.391 [qtp1859823482-24] [39311f9b-814d-410a-a81e-be779c33ec53] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 14:01:58.394 [qtp1859823482-24] [39311f9b-814d-410a-a81e-be779c33ec53] CheckSum - Access key of app id : 970466 
+[INFO ] 2021-08-25 14:01:58.396 [qtp1859823482-24] [39311f9b-814d-410a-a81e-be779c33ec53] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 14:01:58.397 [qtp1859823482-24] [39311f9b-814d-410a-a81e-be779c33ec53] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 14:01:58.447 [qtp1859823482-24] [] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 14:01:58.450 [qtp1859823482-24] [] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 14:09:01.470 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 14:09:28.852 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 14:09:30.942 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 14:09:44.286 [qtp1859823482-23] [eee8c09f-398f-484c-8f17-a9a499b76d66] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 14:09:44.578 [qtp1859823482-23] [eee8c09f-398f-484c-8f17-a9a499b76d66] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 14:09:44.580 [qtp1859823482-23] [eee8c09f-398f-484c-8f17-a9a499b76d66] CheckSum - Access key of app id : 970466 
+[INFO ] 2021-08-25 14:09:44.583 [qtp1859823482-23] [eee8c09f-398f-484c-8f17-a9a499b76d66] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 14:09:44.584 [qtp1859823482-23] [eee8c09f-398f-484c-8f17-a9a499b76d66] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 14:09:44.586 [qtp1859823482-23] [eee8c09f-398f-484c-8f17-a9a499b76d66] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 14:09:44.588 [qtp1859823482-23] [eee8c09f-398f-484c-8f17-a9a499b76d66] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 14:13:42.920 [qtp1859823482-24] [9755ff84-7289-49a3-a5b5-00b58eb447a3] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 14:13:42.927 [qtp1859823482-24] [9755ff84-7289-49a3-a5b5-00b58eb447a3] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 14:13:42.927 [qtp1859823482-24] [9755ff84-7289-49a3-a5b5-00b58eb447a3] CheckSum - Access key of app id : 908405 
+[INFO ] 2021-08-25 14:13:42.928 [qtp1859823482-24] [9755ff84-7289-49a3-a5b5-00b58eb447a3] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-25 14:13:42.928 [qtp1859823482-24] [9755ff84-7289-49a3-a5b5-00b58eb447a3] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 14:13:42.929 [qtp1859823482-24] [9755ff84-7289-49a3-a5b5-00b58eb447a3] MerchantServiceImpl - Validate merchant : Not equals data check sum
+[INFO ] 2021-08-25 14:17:01.549 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 15:30:30.161 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 15:30:31.533 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 15:30:42.774 [qtp1859823482-23] [6454b0bb-625a-47d2-a202-8932889af25f] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 15:30:42.848 [qtp1859823482-23] [6454b0bb-625a-47d2-a202-8932889af25f] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-25 15:30:42.849 [qtp1859823482-23] [6454b0bb-625a-47d2-a202-8932889af25f] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-25 15:30:42.910 [qtp1859823482-23] [6454b0bb-625a-47d2-a202-8932889af25f] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 15:30:42.910 [qtp1859823482-23] [6454b0bb-625a-47d2-a202-8932889af25f] CheckSum - Access key of app id : 970466 
+[INFO ] 2021-08-25 15:30:42.911 [qtp1859823482-23] [6454b0bb-625a-47d2-a202-8932889af25f] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 15:30:42.912 [qtp1859823482-23] [6454b0bb-625a-47d2-a202-8932889af25f] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 15:30:42.914 [qtp1859823482-23] [6454b0bb-625a-47d2-a202-8932889af25f] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 15:30:42.916 [qtp1859823482-23] [6454b0bb-625a-47d2-a202-8932889af25f] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 15:30:55.522 [qtp1859823482-24] [2e250345-8f6e-451f-ae9e-6f9e074ed490] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=4F473758D58D8E72967905D43B9C6AE0, billNumber=987654) 
+[INFO ] 2021-08-25 15:30:55.524 [qtp1859823482-24] [2e250345-8f6e-451f-ae9e-6f9e074ed490] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-25 15:30:55.525 [qtp1859823482-24] [2e250345-8f6e-451f-ae9e-6f9e074ed490] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-25 15:30:55.526 [qtp1859823482-24] [2e250345-8f6e-451f-ae9e-6f9e074ed490] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 15:30:55.526 [qtp1859823482-24] [2e250345-8f6e-451f-ae9e-6f9e074ed490] CheckSum - Access key of app id : 908405 
+[INFO ] 2021-08-25 15:30:55.527 [qtp1859823482-24] [2e250345-8f6e-451f-ae9e-6f9e074ed490] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-25 15:30:55.527 [qtp1859823482-24] [2e250345-8f6e-451f-ae9e-6f9e074ed490] CheckSum - Check sum from request : 4F473758D58D8E72967905D43B9C6AE0 
+[INFO ] 2021-08-25 15:30:55.528 [qtp1859823482-24] [2e250345-8f6e-451f-ae9e-6f9e074ed490] MerchantServiceImpl - Validate merchant : Not equals data check sum
+[INFO ] 2021-08-25 15:40:31.645 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 15:40:46.659 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 15:40:48.000 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 15:41:00.829 [qtp1859823482-22] [cb7143ee-f3f0-436b-b603-72a12d6ed297] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=4F473758D58D8E72967905D43B9C6AE0, billNumber=987654) 
+[INFO ] 2021-08-25 15:41:00.899 [qtp1859823482-22] [cb7143ee-f3f0-436b-b603-72a12d6ed297] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-25 15:41:00.900 [qtp1859823482-22] [cb7143ee-f3f0-436b-b603-72a12d6ed297] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-25 15:41:00.962 [qtp1859823482-22] [cb7143ee-f3f0-436b-b603-72a12d6ed297] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 15:41:00.963 [qtp1859823482-22] [cb7143ee-f3f0-436b-b603-72a12d6ed297] CheckSum - Access key of app id : 908405 
+[INFO ] 2021-08-25 15:41:00.965 [qtp1859823482-22] [cb7143ee-f3f0-436b-b603-72a12d6ed297] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-25 15:41:00.965 [qtp1859823482-22] [cb7143ee-f3f0-436b-b603-72a12d6ed297] CheckSum - Check sum from request : 4F473758D58D8E72967905D43B9C6AE0 
+[INFO ] 2021-08-25 15:41:00.967 [qtp1859823482-22] [cb7143ee-f3f0-436b-b603-72a12d6ed297] CheckSum - Checksum before hash : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-25 15:41:00.968 [qtp1859823482-22] [cb7143ee-f3f0-436b-b603-72a12d6ed297] MerchantServiceImpl - Validate merchant : Not equals data check sum
+[INFO ] 2021-08-25 15:41:35.276 [qtp1859823482-24] [358ccc04-0d2b-4ae0-bedb-a30ffb2ac165] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-25 15:41:35.278 [qtp1859823482-24] [358ccc04-0d2b-4ae0-bedb-a30ffb2ac165] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-25 15:41:35.280 [qtp1859823482-24] [358ccc04-0d2b-4ae0-bedb-a30ffb2ac165] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-25 15:41:35.282 [qtp1859823482-24] [358ccc04-0d2b-4ae0-bedb-a30ffb2ac165] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 15:41:35.285 [qtp1859823482-24] [358ccc04-0d2b-4ae0-bedb-a30ffb2ac165] CheckSum - Access key of app id : 908405 
+[INFO ] 2021-08-25 15:41:35.285 [qtp1859823482-24] [358ccc04-0d2b-4ae0-bedb-a30ffb2ac165] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-25 15:41:35.286 [qtp1859823482-24] [358ccc04-0d2b-4ae0-bedb-a30ffb2ac165] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-25 15:41:35.286 [qtp1859823482-24] [358ccc04-0d2b-4ae0-bedb-a30ffb2ac165] CheckSum - Checksum before hash : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-25 15:41:35.286 [qtp1859823482-24] [358ccc04-0d2b-4ae0-bedb-a30ffb2ac165] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 15:41:35.287 [qtp1859823482-24] [358ccc04-0d2b-4ae0-bedb-a30ffb2ac165] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 15:41:53.391 [qtp1859823482-23] [6d65122b-0394-4ad1-8c12-f73098dac647] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 15:41:53.392 [qtp1859823482-23] [6d65122b-0394-4ad1-8c12-f73098dac647] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-25 15:41:53.392 [qtp1859823482-23] [6d65122b-0394-4ad1-8c12-f73098dac647] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-25 15:41:53.393 [qtp1859823482-23] [6d65122b-0394-4ad1-8c12-f73098dac647] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 15:41:53.394 [qtp1859823482-23] [6d65122b-0394-4ad1-8c12-f73098dac647] CheckSum - Access key of app id : 970466 
+[INFO ] 2021-08-25 15:41:53.394 [qtp1859823482-23] [6d65122b-0394-4ad1-8c12-f73098dac647] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 15:41:53.394 [qtp1859823482-23] [6d65122b-0394-4ad1-8c12-f73098dac647] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 15:41:53.395 [qtp1859823482-23] [6d65122b-0394-4ad1-8c12-f73098dac647] CheckSum - Checksum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 15:41:53.395 [qtp1859823482-23] [6d65122b-0394-4ad1-8c12-f73098dac647] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 15:41:53.395 [qtp1859823482-23] [6d65122b-0394-4ad1-8c12-f73098dac647] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 15:42:14.236 [qtp1859823482-22] [7890e693-c473-4a16-adb1-4c0da9bd44ae] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VIETCOMBANK, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 15:42:14.239 [qtp1859823482-22] [7890e693-c473-4a16-adb1-4c0da9bd44ae] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-25 15:42:14.241 [qtp1859823482-22] [7890e693-c473-4a16-adb1-4c0da9bd44ae] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-25 15:42:14.243 [qtp1859823482-22] [7890e693-c473-4a16-adb1-4c0da9bd44ae] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 15:42:14.247 [qtp1859823482-22] [7890e693-c473-4a16-adb1-4c0da9bd44ae] CheckSum - Access key of app id : 970436 
+[INFO ] 2021-08-25 15:42:14.247 [qtp1859823482-22] [7890e693-c473-4a16-adb1-4c0da9bd44ae] CheckSum - Data to check sum : VIETCOMBANK|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970436
+[INFO ] 2021-08-25 15:42:14.248 [qtp1859823482-22] [7890e693-c473-4a16-adb1-4c0da9bd44ae] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 15:42:14.249 [qtp1859823482-22] [7890e693-c473-4a16-adb1-4c0da9bd44ae] CheckSum - Checksum before hash : 0B58E8880DB351B2D11D85C97BDC53CF 
+[INFO ] 2021-08-25 15:42:14.249 [qtp1859823482-22] [7890e693-c473-4a16-adb1-4c0da9bd44ae] MerchantServiceImpl - Validate merchant : Not equals data check sum
+[INFO ] 2021-08-25 15:44:21.628 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 15:44:35.837 [main] [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 15:44:37.341 [main] [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 15:44:54.889 [qtp1859823482-22] [9f3e0d61-d380-48f5-a9e1-cce05e658e01] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 15:44:54.971 [qtp1859823482-22] [9f3e0d61-d380-48f5-a9e1-cce05e658e01] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-25 15:44:54.973 [qtp1859823482-22] [9f3e0d61-d380-48f5-a9e1-cce05e658e01] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-25 15:44:55.048 [qtp1859823482-22] [9f3e0d61-d380-48f5-a9e1-cce05e658e01] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 15:44:55.049 [qtp1859823482-22] [9f3e0d61-d380-48f5-a9e1-cce05e658e01] CheckSum - Access key of BIDV : 970466
+[INFO ] 2021-08-25 15:44:55.051 [qtp1859823482-22] [9f3e0d61-d380-48f5-a9e1-cce05e658e01] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 15:44:55.051 [qtp1859823482-22] [9f3e0d61-d380-48f5-a9e1-cce05e658e01] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 15:44:55.054 [qtp1859823482-22] [9f3e0d61-d380-48f5-a9e1-cce05e658e01] CheckSum - Checksum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 15:44:55.055 [qtp1859823482-22] [9f3e0d61-d380-48f5-a9e1-cce05e658e01] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 15:44:55.057 [qtp1859823482-22] [9f3e0d61-d380-48f5-a9e1-cce05e658e01] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 15:47:10.403 [Thread-1] [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 15:47:24.278 [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 15:47:25.249 [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 15:47:30.331 [f3a02257-9799-4b57-9299-80a66c6642fb] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=145A9DC8695D8A48F61FC4EC048834AE, billNumber=987654) 
+[INFO ] 2021-08-25 15:47:30.411 [f3a02257-9799-4b57-9299-80a66c6642fb] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-25 15:47:30.413 [f3a02257-9799-4b57-9299-80a66c6642fb] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-25 15:47:30.484 [f3a02257-9799-4b57-9299-80a66c6642fb] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 15:47:30.485 [f3a02257-9799-4b57-9299-80a66c6642fb] CheckSum - Access key of BIDV : 970466
+[INFO ] 2021-08-25 15:47:30.486 [f3a02257-9799-4b57-9299-80a66c6642fb] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-25 15:47:30.487 [f3a02257-9799-4b57-9299-80a66c6642fb] CheckSum - Check sum from request : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 15:47:30.489 [f3a02257-9799-4b57-9299-80a66c6642fb] CheckSum - Checksum before hash : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-25 15:47:30.490 [f3a02257-9799-4b57-9299-80a66c6642fb] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 15:47:30.491 [f3a02257-9799-4b57-9299-80a66c6642fb] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 15:47:56.486 [b5816f95-410b-4782-8f28-9bc428184629] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-25 15:47:56.488 [b5816f95-410b-4782-8f28-9bc428184629] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-25 15:47:56.488 [b5816f95-410b-4782-8f28-9bc428184629] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-25 15:47:56.490 [b5816f95-410b-4782-8f28-9bc428184629] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 15:47:56.491 [b5816f95-410b-4782-8f28-9bc428184629] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-25 15:47:56.491 [b5816f95-410b-4782-8f28-9bc428184629] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-25 15:47:56.492 [b5816f95-410b-4782-8f28-9bc428184629] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-25 15:47:56.492 [b5816f95-410b-4782-8f28-9bc428184629] CheckSum - Checksum before hash : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-25 15:47:56.493 [b5816f95-410b-4782-8f28-9bc428184629] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 15:47:56.493 [b5816f95-410b-4782-8f28-9bc428184629] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 16:10:51.984 [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 16:11:21.855 [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 16:11:25.118 [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 16:11:30.914 [98d3b636-89cb-4078-8419-e11cdae92db0] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-25 16:13:20.819 [98d3b636-89cb-4078-8419-e11cdae92db0] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-25 16:13:20.829 [98d3b636-89cb-4078-8419-e11cdae92db0] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-25 16:13:21.002 [98d3b636-89cb-4078-8419-e11cdae92db0] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 16:13:21.002 [98d3b636-89cb-4078-8419-e11cdae92db0] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-25 16:13:21.006 [98d3b636-89cb-4078-8419-e11cdae92db0] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-25 16:13:21.006 [98d3b636-89cb-4078-8419-e11cdae92db0] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-25 16:13:21.009 [98d3b636-89cb-4078-8419-e11cdae92db0] CheckSum - Checksum before hash : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-25 16:13:21.009 [98d3b636-89cb-4078-8419-e11cdae92db0] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 16:13:21.010 [98d3b636-89cb-4078-8419-e11cdae92db0] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 16:13:21.177 [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 16:13:26.672 [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 16:13:28.815 [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 16:13:46.261 [4465f1fa-dfd6-4194-9cb4-8d196f44fbc6] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-25 16:15:25.801 [4465f1fa-dfd6-4194-9cb4-8d196f44fbc6] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-25 16:15:25.802 [4465f1fa-dfd6-4194-9cb4-8d196f44fbc6] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-25 16:15:25.882 [4465f1fa-dfd6-4194-9cb4-8d196f44fbc6] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 16:15:25.883 [4465f1fa-dfd6-4194-9cb4-8d196f44fbc6] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-25 16:15:25.885 [4465f1fa-dfd6-4194-9cb4-8d196f44fbc6] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-25 16:15:25.885 [4465f1fa-dfd6-4194-9cb4-8d196f44fbc6] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-25 16:15:25.887 [4465f1fa-dfd6-4194-9cb4-8d196f44fbc6] CheckSum - Checksum before hash : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-25 16:15:25.888 [4465f1fa-dfd6-4194-9cb4-8d196f44fbc6] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 16:15:25.889 [4465f1fa-dfd6-4194-9cb4-8d196f44fbc6] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 16:15:26.071 [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-25 16:15:34.691 [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-25 16:15:36.595 [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-25 16:15:41.844 [63f88eeb-57e7-46ae-8939-f6786d3f1814] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-25 16:24:10.813 [63f88eeb-57e7-46ae-8939-f6786d3f1814] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-25 16:24:10.896 [63f88eeb-57e7-46ae-8939-f6786d3f1814] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-25 16:24:11.347 [63f88eeb-57e7-46ae-8939-f6786d3f1814] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-25 16:24:11.348 [63f88eeb-57e7-46ae-8939-f6786d3f1814] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-25 16:24:11.367 [63f88eeb-57e7-46ae-8939-f6786d3f1814] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-25 16:24:11.367 [63f88eeb-57e7-46ae-8939-f6786d3f1814] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-25 16:24:11.400 [63f88eeb-57e7-46ae-8939-f6786d3f1814] CheckSum - Checksum before hash : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-25 16:24:11.400 [63f88eeb-57e7-46ae-8939-f6786d3f1814] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-25 16:24:11.402 [63f88eeb-57e7-46ae-8939-f6786d3f1814] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-25 16:24:11.648 [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-26 10:05:41.468 [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-26 10:05:47.098 [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-26 10:06:56.046 [bd69acff-2390-4f9b-9400-77544cb92541] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 10:06:56.559 [bd69acff-2390-4f9b-9400-77544cb92541] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 10:06:56.646 [bd69acff-2390-4f9b-9400-77544cb92541] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 10:06:56.810 [bd69acff-2390-4f9b-9400-77544cb92541] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 10:06:56.810 [bd69acff-2390-4f9b-9400-77544cb92541] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 10:06:56.828 [bd69acff-2390-4f9b-9400-77544cb92541] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 10:06:56.828 [bd69acff-2390-4f9b-9400-77544cb92541] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 10:06:56.833 [bd69acff-2390-4f9b-9400-77544cb92541] CheckSum - Checksum before hash : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 10:06:56.833 [bd69acff-2390-4f9b-9400-77544cb92541] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 10:06:56.834 [bd69acff-2390-4f9b-9400-77544cb92541] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-26 10:08:15.682 [226f5742-a1fa-4a84-868a-03065093295b] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 10:08:15.683 [226f5742-a1fa-4a84-868a-03065093295b] MerchantServiceImpl - Validate merchant : App id can not null
+[INFO ] 2021-08-26 10:08:15.683 [226f5742-a1fa-4a84-868a-03065093295b] MerchantServiceImpl - Response from request : RespOfMerchantDTO(code=00, message=App id can not null, data=null) 
+[INFO ] 2021-08-26 10:34:39.919 [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-26 10:35:35.424 [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-26 10:35:59.678 [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-26 10:36:23.298 [acda2327-b801-4d6c-877c-5ccf96156eeb] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 10:36:23.674 [acda2327-b801-4d6c-877c-5ccf96156eeb] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 10:36:23.675 [acda2327-b801-4d6c-877c-5ccf96156eeb] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 10:36:23.880 [acda2327-b801-4d6c-877c-5ccf96156eeb] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 10:36:23.880 [acda2327-b801-4d6c-877c-5ccf96156eeb] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 10:36:23.882 [acda2327-b801-4d6c-877c-5ccf96156eeb] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 10:36:23.884 [acda2327-b801-4d6c-877c-5ccf96156eeb] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 10:36:23.913 [acda2327-b801-4d6c-877c-5ccf96156eeb] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 10:36:23.913 [acda2327-b801-4d6c-877c-5ccf96156eeb] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 10:36:23.915 [acda2327-b801-4d6c-877c-5ccf96156eeb] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-26 14:57:44.654 [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-26 15:28:42.506 [df55bf6a-1c01-4c61-9f64-3f41e66b794c] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 15:28:42.892 [df55bf6a-1c01-4c61-9f64-3f41e66b794c] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 15:28:43.023 [df55bf6a-1c01-4c61-9f64-3f41e66b794c] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 15:28:43.255 [df55bf6a-1c01-4c61-9f64-3f41e66b794c] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 15:28:43.255 [df55bf6a-1c01-4c61-9f64-3f41e66b794c] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 15:28:43.271 [df55bf6a-1c01-4c61-9f64-3f41e66b794c] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 15:28:43.271 [df55bf6a-1c01-4c61-9f64-3f41e66b794c] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:28:43.271 [df55bf6a-1c01-4c61-9f64-3f41e66b794c] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:28:43.271 [df55bf6a-1c01-4c61-9f64-3f41e66b794c] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 15:28:43.271 [df55bf6a-1c01-4c61-9f64-3f41e66b794c] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-26 15:37:25.067 [c2388267-8da7-49be-b2d4-e6ee181bc22b] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 15:37:25.321 [c2388267-8da7-49be-b2d4-e6ee181bc22b] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 15:37:25.321 [c2388267-8da7-49be-b2d4-e6ee181bc22b] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 15:37:25.421 [c2388267-8da7-49be-b2d4-e6ee181bc22b] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 15:37:25.421 [c2388267-8da7-49be-b2d4-e6ee181bc22b] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 15:37:25.437 [c2388267-8da7-49be-b2d4-e6ee181bc22b] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 15:37:25.437 [c2388267-8da7-49be-b2d4-e6ee181bc22b] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:37:25.437 [c2388267-8da7-49be-b2d4-e6ee181bc22b] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:37:25.437 [c2388267-8da7-49be-b2d4-e6ee181bc22b] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 15:37:25.437 [c2388267-8da7-49be-b2d4-e6ee181bc22b] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-26 15:38:10.226 [933c2578-4463-40d4-9adb-4d3303147737] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 15:38:10.326 [933c2578-4463-40d4-9adb-4d3303147737] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 15:38:10.326 [933c2578-4463-40d4-9adb-4d3303147737] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 15:38:10.395 [933c2578-4463-40d4-9adb-4d3303147737] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 15:38:10.395 [933c2578-4463-40d4-9adb-4d3303147737] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 15:38:10.395 [933c2578-4463-40d4-9adb-4d3303147737] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 15:38:10.395 [933c2578-4463-40d4-9adb-4d3303147737] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:38:10.395 [933c2578-4463-40d4-9adb-4d3303147737] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:38:10.395 [933c2578-4463-40d4-9adb-4d3303147737] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 15:38:10.395 [933c2578-4463-40d4-9adb-4d3303147737] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-26 15:41:58.791 [72e5c82f-a1f0-406d-b55c-fa4b51585eb6] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 15:41:58.791 [72e5c82f-a1f0-406d-b55c-fa4b51585eb6] MerchantServiceImpl - Validate merchant : App id can not null
+[INFO ] 2021-08-26 15:42:30.967 [03ea75a5-d58c-4a7c-ac6c-beaff4fb211a] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=BIDV, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 15:42:31.051 [03ea75a5-d58c-4a7c-ac6c-beaff4fb211a] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 15:42:31.051 [03ea75a5-d58c-4a7c-ac6c-beaff4fb211a] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 15:42:31.105 [03ea75a5-d58c-4a7c-ac6c-beaff4fb211a] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 15:42:31.105 [03ea75a5-d58c-4a7c-ac6c-beaff4fb211a] CheckSum - Access key of BIDV : 970466
+[INFO ] 2021-08-26 15:42:31.105 [03ea75a5-d58c-4a7c-ac6c-beaff4fb211a] CheckSum - Data to check sum : BIDV|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|970466
+[INFO ] 2021-08-26 15:42:31.105 [03ea75a5-d58c-4a7c-ac6c-beaff4fb211a] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:42:31.105 [03ea75a5-d58c-4a7c-ac6c-beaff4fb211a] CheckSum - Checksum before handler : 145A9DC8695D8A48F61FC4EC048834AE 
+[INFO ] 2021-08-26 15:42:31.105 [03ea75a5-d58c-4a7c-ac6c-beaff4fb211a] MerchantServiceImpl - Validate merchant : Not equals data check sum
+[INFO ] 2021-08-26 15:43:48.432 [b607e913-032b-4e88-b4ec-26811c083a52] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 15:43:48.501 [b607e913-032b-4e88-b4ec-26811c083a52] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 15:43:48.501 [b607e913-032b-4e88-b4ec-26811c083a52] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 15:43:48.555 [b607e913-032b-4e88-b4ec-26811c083a52] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 15:43:48.555 [b607e913-032b-4e88-b4ec-26811c083a52] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 15:43:48.555 [b607e913-032b-4e88-b4ec-26811c083a52] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 15:43:48.555 [b607e913-032b-4e88-b4ec-26811c083a52] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:43:48.555 [b607e913-032b-4e88-b4ec-26811c083a52] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:43:48.555 [b607e913-032b-4e88-b4ec-26811c083a52] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 15:43:48.570 [b607e913-032b-4e88-b4ec-26811c083a52] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-26 15:58:28.130 [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 15:58:28.162 [] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 15:58:28.177 [] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 15:58:28.177 [] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:58:28.177 [] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:58:28.362 [662579f5-2d57-4e0b-967a-94c6df45cb15] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 15:58:28.455 [662579f5-2d57-4e0b-967a-94c6df45cb15] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 15:58:28.455 [662579f5-2d57-4e0b-967a-94c6df45cb15] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 15:58:28.455 [662579f5-2d57-4e0b-967a-94c6df45cb15] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 15:58:28.455 [662579f5-2d57-4e0b-967a-94c6df45cb15] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 15:58:28.455 [662579f5-2d57-4e0b-967a-94c6df45cb15] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 15:58:28.455 [662579f5-2d57-4e0b-967a-94c6df45cb15] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:58:28.455 [662579f5-2d57-4e0b-967a-94c6df45cb15] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:58:28.455 [662579f5-2d57-4e0b-967a-94c6df45cb15] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 15:58:28.463 [662579f5-2d57-4e0b-967a-94c6df45cb15] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-26 15:58:49.934 [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 15:58:49.950 [] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 15:58:49.950 [] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 15:58:49.950 [] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:58:49.950 [] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:58:50.150 [056cbc19-9f28-4005-b77f-d5a1c45d4369] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 15:58:50.235 [056cbc19-9f28-4005-b77f-d5a1c45d4369] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 15:58:50.235 [056cbc19-9f28-4005-b77f-d5a1c45d4369] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 15:58:50.235 [056cbc19-9f28-4005-b77f-d5a1c45d4369] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 15:58:50.235 [056cbc19-9f28-4005-b77f-d5a1c45d4369] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 15:58:50.235 [056cbc19-9f28-4005-b77f-d5a1c45d4369] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 15:58:50.235 [056cbc19-9f28-4005-b77f-d5a1c45d4369] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:58:50.235 [056cbc19-9f28-4005-b77f-d5a1c45d4369] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:58:50.235 [056cbc19-9f28-4005-b77f-d5a1c45d4369] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 15:58:50.235 [056cbc19-9f28-4005-b77f-d5a1c45d4369] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-26 15:59:07.646 [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 15:59:07.661 [] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 15:59:07.661 [] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 15:59:07.661 [] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:59:07.668 [] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:59:07.862 [1e19769d-e9ea-4435-b51c-85049f9cf440] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 15:59:07.931 [1e19769d-e9ea-4435-b51c-85049f9cf440] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 15:59:07.931 [1e19769d-e9ea-4435-b51c-85049f9cf440] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 15:59:07.931 [1e19769d-e9ea-4435-b51c-85049f9cf440] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 15:59:07.931 [1e19769d-e9ea-4435-b51c-85049f9cf440] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 15:59:07.931 [1e19769d-e9ea-4435-b51c-85049f9cf440] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 15:59:07.931 [1e19769d-e9ea-4435-b51c-85049f9cf440] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:59:07.931 [1e19769d-e9ea-4435-b51c-85049f9cf440] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:59:07.931 [1e19769d-e9ea-4435-b51c-85049f9cf440] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 15:59:07.931 [1e19769d-e9ea-4435-b51c-85049f9cf440] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-26 15:59:23.862 [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 15:59:23.877 [] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 15:59:23.877 [] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 15:59:23.877 [] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:59:23.893 [] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:59:24.116 [442fe783-d5b4-487f-9a4d-9bef900fbf43] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 15:59:24.194 [442fe783-d5b4-487f-9a4d-9bef900fbf43] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 15:59:24.194 [442fe783-d5b4-487f-9a4d-9bef900fbf43] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 15:59:24.194 [442fe783-d5b4-487f-9a4d-9bef900fbf43] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 15:59:24.194 [442fe783-d5b4-487f-9a4d-9bef900fbf43] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 15:59:24.194 [442fe783-d5b4-487f-9a4d-9bef900fbf43] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 15:59:24.194 [442fe783-d5b4-487f-9a4d-9bef900fbf43] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:59:24.194 [442fe783-d5b4-487f-9a4d-9bef900fbf43] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 15:59:24.194 [442fe783-d5b4-487f-9a4d-9bef900fbf43] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 15:59:24.209 [442fe783-d5b4-487f-9a4d-9bef900fbf43] MerchantServiceImpl - Data to response : 00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM 
+[INFO ] 2021-08-26 16:08:50.652 [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 16:08:50.674 [] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 16:08:50.674 [] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 16:08:50.674 [] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:08:50.706 [] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:08:50.875 [37c9d664-af3c-4424-a021-6c261f3fb37c] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 16:08:51.154 [37c9d664-af3c-4424-a021-6c261f3fb37c] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 16:08:51.154 [37c9d664-af3c-4424-a021-6c261f3fb37c] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 16:08:51.169 [37c9d664-af3c-4424-a021-6c261f3fb37c] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 16:08:51.169 [37c9d664-af3c-4424-a021-6c261f3fb37c] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 16:08:51.169 [37c9d664-af3c-4424-a021-6c261f3fb37c] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 16:08:51.169 [37c9d664-af3c-4424-a021-6c261f3fb37c] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:08:51.169 [37c9d664-af3c-4424-a021-6c261f3fb37c] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:08:51.169 [37c9d664-af3c-4424-a021-6c261f3fb37c] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 16:08:51.169 [37c9d664-af3c-4424-a021-6c261f3fb37c] MerchantServiceImpl - Data to response : ResponseFromPartnerDTO(statusCode=200, data=00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM) 
+[INFO ] 2021-08-26 16:09:28.190 [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 16:09:28.190 [] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 16:09:28.190 [] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 16:09:28.205 [] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:09:28.205 [] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:09:28.375 [817f1a5d-7440-42ca-a24d-eaba7c4a4173] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 16:09:28.453 [817f1a5d-7440-42ca-a24d-eaba7c4a4173] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 16:09:28.453 [817f1a5d-7440-42ca-a24d-eaba7c4a4173] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 16:09:28.453 [817f1a5d-7440-42ca-a24d-eaba7c4a4173] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 16:09:28.453 [817f1a5d-7440-42ca-a24d-eaba7c4a4173] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 16:09:28.453 [817f1a5d-7440-42ca-a24d-eaba7c4a4173] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 16:09:28.453 [817f1a5d-7440-42ca-a24d-eaba7c4a4173] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:09:28.453 [817f1a5d-7440-42ca-a24d-eaba7c4a4173] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:09:28.459 [817f1a5d-7440-42ca-a24d-eaba7c4a4173] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 16:09:28.459 [817f1a5d-7440-42ca-a24d-eaba7c4a4173] MerchantServiceImpl - Data to response : ResponseFromPartnerDTO(statusCode=200, data=00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM) 
+[INFO ] 2021-08-26 16:09:39.459 [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-26 16:09:41.709 [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-26 16:09:56.297 [da1c320f-9210-4604-b1c0-860b3dea905b] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 16:09:57.186 [da1c320f-9210-4604-b1c0-860b3dea905b] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 16:09:57.187 [da1c320f-9210-4604-b1c0-860b3dea905b] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 16:09:57.330 [da1c320f-9210-4604-b1c0-860b3dea905b] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 16:09:57.330 [da1c320f-9210-4604-b1c0-860b3dea905b] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 16:09:57.330 [da1c320f-9210-4604-b1c0-860b3dea905b] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 16:09:57.330 [da1c320f-9210-4604-b1c0-860b3dea905b] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:09:57.330 [da1c320f-9210-4604-b1c0-860b3dea905b] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:09:57.330 [da1c320f-9210-4604-b1c0-860b3dea905b] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 16:09:57.330 [da1c320f-9210-4604-b1c0-860b3dea905b] MerchantServiceImpl - Data to response : ResponseFromPartnerDTO(statusCode=200, data=00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM) 
+[INFO ] 2021-08-26 16:16:13.546 [] JettyServer - <---- Done, exit ---->
+[INFO ] 2021-08-26 16:16:22.639 [] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 16:16:22.639 [] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 16:16:22.639 [] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 16:16:22.639 [] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:16:22.655 [] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:16:22.824 [6f9af73d-bb31-4ea8-bcc0-acc9d9d9308c] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 16:16:22.908 [6f9af73d-bb31-4ea8-bcc0-acc9d9d9308c] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 16:16:22.908 [6f9af73d-bb31-4ea8-bcc0-acc9d9d9308c] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 16:16:22.908 [6f9af73d-bb31-4ea8-bcc0-acc9d9d9308c] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 16:16:22.908 [6f9af73d-bb31-4ea8-bcc0-acc9d9d9308c] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 16:16:22.908 [6f9af73d-bb31-4ea8-bcc0-acc9d9d9308c] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 16:16:22.908 [6f9af73d-bb31-4ea8-bcc0-acc9d9d9308c] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:16:22.908 [6f9af73d-bb31-4ea8-bcc0-acc9d9d9308c] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:16:22.908 [6f9af73d-bb31-4ea8-bcc0-acc9d9d9308c] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 16:16:23.194 [6f9af73d-bb31-4ea8-bcc0-acc9d9d9308c] MerchantServiceImpl - Data to response : ResponseFromPartnerDTO(statusCode=200, data=00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM) 
+[INFO ] 2021-08-26 16:16:27.684 [] JettyServer - <------Starting project!!!----->
+[INFO ] 2021-08-26 16:16:28.354 [] JettyServer - Application started. Stop the application using CTRL+C
+[INFO ] 2021-08-26 16:16:40.826 [6fc650f8-f47e-4b24-a410-7d0cbda2a0d9] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=VNPAY, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 16:16:40.881 [6fc650f8-f47e-4b24-a410-7d0cbda2a0d9] MerchantValidator - Exist merchantCode in redis : false 
+[INFO ] 2021-08-26 16:16:40.882 [6fc650f8-f47e-4b24-a410-7d0cbda2a0d9] MerchantValidator - Exist terminal in redis : false 
+[INFO ] 2021-08-26 16:16:40.972 [6fc650f8-f47e-4b24-a410-7d0cbda2a0d9] ReadConfigYaml - Name and access key from path : {VNPAY=908405, BIDV=970466, VIETCOMBANK=970436}
+[INFO ] 2021-08-26 16:16:40.974 [6fc650f8-f47e-4b24-a410-7d0cbda2a0d9] CheckSum - Access key of VNPAY : 908405
+[INFO ] 2021-08-26 16:16:40.974 [6fc650f8-f47e-4b24-a410-7d0cbda2a0d9] CheckSum - Data to check sum : VNPAY|BEST TRANSPORT|03|CN|A000000775|036093001475|A6008667|01|123113277|55000.00|null|704|2107170755|908405
+[INFO ] 2021-08-26 16:16:40.975 [6fc650f8-f47e-4b24-a410-7d0cbda2a0d9] CheckSum - Check sum from request : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:16:40.976 [6fc650f8-f47e-4b24-a410-7d0cbda2a0d9] CheckSum - Checksum before handler : 3C927D42F84B5420502AAF29B97402C5 
+[INFO ] 2021-08-26 16:16:40.977 [6fc650f8-f47e-4b24-a410-7d0cbda2a0d9] MerchantServiceImpl - Validate merchant : null
+[INFO ] 2021-08-26 16:16:40.978 [6fc650f8-f47e-4b24-a410-7d0cbda2a0d9] MerchantServiceImpl - Data to response : ResponseFromPartnerDTO(statusCode=200, data=00020101021226300010A000000775011203609300147552120360930014755303704540855000.005802CN5914BEST TRANSPORT6007BEIJING610510000624902041234051021071707550708A60086670805COSO20902ME63048TTM) 
+[INFO ] 2021-08-26 16:16:52.998 [c44cc837-52ed-47a0-a493-17e83daf2b17] MerchantServiceImpl - Request from merchant : ReqFromMerchantDTO(appId=, masterMerCode=A000000775, serviceCode=03, ccy=704, amount=55000.00, countryCode=CN, merchantCode=036093001475, merchantName=BEST TRANSPORT, merchantCity=BEIJING, postalCode=10000, storeLabel=1234, expDate=2107170755, terminalId=A6008667, purpose=COSO2, addInfo=ME, payType=01, txnId=123113277, crc=8TTM, tipAndFee=null, checksum=3C927D42F84B5420502AAF29B97402C5, billNumber=987654) 
+[INFO ] 2021-08-26 16:16:52.998 [c44cc837-52ed-47a0-a493-17e83daf2b17] MerchantServiceImpl - Validate merchant : App id can not null
+[INFO ] 2021-08-26 16:16:52.999 [c44cc837-52ed-47a0-a493-17e83daf2b17] MerchantServiceImpl - Data to response : ResponseFromPartnerDTO(statusCode=400, data=null) 
