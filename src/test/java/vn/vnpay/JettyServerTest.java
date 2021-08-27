@@ -36,7 +36,7 @@ public class JettyServerTest {
     }
 
     @Test
-    public void test() throws JSONException {
+    public void testResponse() throws JSONException {
         Object responseFromClient = target.path("merchant/response")
                         .request(MediaType.APPLICATION_JSON_TYPE)
                         .get(Object.class);
